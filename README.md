@@ -1,4 +1,4 @@
-# kedro-testing
+# Kedro Testing
 
 Testing Kedro 
 
