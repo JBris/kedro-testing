@@ -21,3 +21,9 @@ Run pipeline:
 ```
 kedro run
 ```
+
+Visualise pipeline:
+
+```
+kedro viz run
+```
